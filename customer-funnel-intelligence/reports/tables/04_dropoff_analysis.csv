@@ -1,0 +1,11 @@
+channel,stage,stayed,entered,lost_users,drop_pct
+Google Ads,Signup,1497,7132,5635,79.01
+Organic Search,Signup,1412,6618,5206,78.66
+YouTube,Signup,1027,5476,4449,81.25
+Instagram,Signup,785,4815,4030,83.7
+Referral,Signup,984,3514,2530,72.0
+LinkedIn,Signup,555,2445,1890,77.3
+Google Ads,Activated,820,1497,677,45.22
+Organic Search,Activated,814,1412,598,42.35
+Google Ads,Trial Started,309,820,511,62.32
+Organic Search,Trial Started,304,814,510,62.65

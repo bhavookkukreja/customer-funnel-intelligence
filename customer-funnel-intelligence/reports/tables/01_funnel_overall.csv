@@ -1,0 +1,6 @@
+stage,users,step_conversion_pct,cum_conversion_pct
+Visit,30000,,100.0
+Signup,6260,20.87,20.87
+Activated,3533,56.44,11.78
+Trial Started,1335,37.79,4.45
+Paid,513,38.43,1.71

@@ -1,0 +1,72 @@
+{
+  "period": "2026-05-04 to 2026-10-31",
+  "visitors": 30000,
+  "signups": 6260,
+  "activated": 3533,
+  "trials": 1335,
+  "paid": 513,
+  "step_conversion_pct": {
+    "Visit\u2192Signup": 20.87,
+    "Signup\u2192Activated": 56.44,
+    "Activated\u2192Trial Started": 37.79,
+    "Trial Started\u2192Paid": 38.43
+  },
+  "overall_visit_to_paid_pct": 1.71,
+  "mrr_inr": 470987,
+  "channel_step_conversion_pct": {
+    "Visit\u2192Signup": {
+      "Referral": 28.0,
+      "LinkedIn": 22.7,
+      "Organic Search": 21.34,
+      "YouTube": 18.75,
+      "Google Ads": 20.99,
+      "Instagram": 16.3
+    },
+    "Signup\u2192Activated": {
+      "Referral": 57.32,
+      "LinkedIn": 56.76,
+      "Organic Search": 57.65,
+      "YouTube": 57.06,
+      "Google Ads": 54.78,
+      "Instagram": 55.29
+    },
+    "Activated\u2192Trial": {
+      "Referral": 39.01,
+      "LinkedIn": 37.78,
+      "Organic Search": 37.35,
+      "YouTube": 36.69,
+      "Google Ads": 37.68,
+      "Instagram": 38.71
+    },
+    "Trial\u2192Paid": {
+      "Referral": 37.27,
+      "LinkedIn": 42.86,
+      "Organic Search": 37.83,
+      "YouTube": 41.86,
+      "Google Ads": 36.25,
+      "Instagram": 37.5
+    }
+  },
+  "channel_mrr_inr": {
+    "Organic Search": 103885,
+    "Google Ads": 99388,
+    "YouTube": 85410,
+    "Referral": 76918,
+    "Instagram": 60437,
+    "LinkedIn": 44949
+  },
+  "channel_rev_per_visitor_inr": {
+    "Organic Search": 15.7,
+    "Google Ads": 13.94,
+    "YouTube": 15.6,
+    "Referral": 21.89,
+    "Instagram": 12.55,
+    "LinkedIn": 18.38
+  },
+  "biggest_dropoff": {
+    "stage": "Visit\u2192Signup",
+    "lost_users": 23740,
+    "best_channel": "Referral",
+    "worst_channel": "Instagram"
+  }
+}
